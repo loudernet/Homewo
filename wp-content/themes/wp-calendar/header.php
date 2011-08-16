@@ -62,6 +62,4 @@ $(function()
 	</div>
 </div>
 <?php endif; ?>
-
-
 <div id="page">
